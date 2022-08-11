@@ -1,0 +1,12 @@
+body{
+    background-color: #A9F04B;
+}
+#score{
+    font-size: 32px;
+    margin-left: 50px;
+}
+#timer{
+    font-size: 32px;
+    float: right;
+    margin-right: 50px;
+}
